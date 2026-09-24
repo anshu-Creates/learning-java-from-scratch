@@ -1,6 +1,6 @@
 # Day 1 — Introduction to Java
 
-Today I started my Java learning journey from the basics.
+### Today I started my Java learning journey from the basics.
 
 ## Topics Covered
 
@@ -36,19 +36,9 @@ Machine Code
      Program
 ```
 
-## First Program
-
-```java
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello World");
-    }
-}
-```
-
 ## Key Learning
 
-Java source code is compiled into **bytecode**, which is then executed by the **JVM**. This is one of the fundamental reasons Java can run across different operating systems.
+### Java source code is compiled into **bytecode**, which is then executed by the **JVM**. This is one of the fundamental reasons Java can run across different operating systems.
 
 ## Practice
 
@@ -57,8 +47,3 @@ Java source code is compiled into **bytecode**, which is then executed by the **
 * Created and executed my first Java program
 * Practiced the Hello World program
 
-## Progress
-
-**Day 1 ✅ — Java Fundamentals & Introduction**
-
-> Starting from the basics and building my Java skills step by step.

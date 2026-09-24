@@ -1,6 +1,6 @@
 # Day 2 — Output, Variables, Data Types & User Input
 
-Today I learned some of the fundamental concepts of Java programming.
+### Today I learned some of the fundamental concepts of Java programming.
 
 ## Topics Covered
 
