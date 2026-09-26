@@ -1,6 +1,6 @@
 # Day 1 — Introduction to Java
 
-### Today I started my Java learning journey from the basics.
+Today I started my Java learning journey from the basics.
 
 ## Topics Covered
 
@@ -18,7 +18,16 @@
 * Introduction to JVM (Java Virtual Machine)
 * Difference between `.java` source code and `.class` bytecode
 
-## How Java Code Runs
+## Practice
+
+* Installed JDK
+* Set up VS Code
+* Created and executed my first Java program
+* Practiced the Hello World program
+
+## Key Learning
+
+Java source code is compiled into **bytecode**, which is then executed by the **JVM**. This is one of the fundamental reasons Java can run across different operating systems.
 
 The basic execution process I learned today:
 
@@ -36,14 +45,5 @@ Machine Code
      Program
 ```
 
-## Key Learning
 
-### Java source code is compiled into **bytecode**, which is then executed by the **JVM**. This is one of the fundamental reasons Java can run across different operating systems.
-
-## Practice
-
-* Installed JDK
-* Set up VS Code
-* Created and executed my first Java program
-* Practiced the Hello World program
 
