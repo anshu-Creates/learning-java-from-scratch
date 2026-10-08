@@ -9,10 +9,6 @@ public class linearSearch{
             arr[i] = sc.nextInt();
         }
 
-        for (int i = 0; i < arr.length; i++) {
-            System.out.println(arr[i]);
-        }
-
         int number = sc.nextInt();
 
         for (int i = 0; i < arr.length; i++) {
