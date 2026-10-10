@@ -10,5 +10,6 @@ public class product {
         int b = sc.nextInt();
         int result = calculateProduct(a, b);
         System.out.println(result);
+        sc.close();
     }
 }

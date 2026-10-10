@@ -20,6 +20,7 @@ public class factorial {
         Scanner sc = new Scanner(System.in);
         int n  = sc.nextInt();
         calculateFactorial(n);
+        sc.close();
     }
     
 }

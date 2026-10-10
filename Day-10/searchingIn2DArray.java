@@ -27,5 +27,7 @@ public class searchingIn2DArray {
             }
         }
 
+        sc.close();
+
     }
 }

@@ -10,5 +10,6 @@ public class sum {
         int b = sc.nextInt();
         int result = calculateSum(a, b);
         System.out.println(result);
+        sc.close();
     }
 }

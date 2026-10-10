@@ -9,5 +9,6 @@ public class input {
         String name  = sc.nextLine();
 
         System.out.println("Hello "+ name);
+        sc.close();
     }
 }
